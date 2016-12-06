@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KvalifikacijeExecom</string>
+    <string name="description">description</string>
+    <string name="save_task">Save task</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="email_adress">Email adress</string>
+    <string name="delete_task">delete task</string>
+</resources>
